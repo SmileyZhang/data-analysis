@@ -19,4 +19,4 @@
 # 心得篇
 ## markdown语法
 在github和jupyter notebook上都用到markdown语法，为了方便，需要记录一些常用语法备忘。
-### [个人总结的markdonw常用语法](data-analysis/md（markdown）语法.md)
+### [个人总结的markdonw常用语法](https://github.com/SmileyZhang/data-analysis/blob/master/md%EF%BC%88markdown%EF%BC%89语法.md)
