@@ -1,7 +1,61 @@
 # 本文用途
 列举常用的markdown语法，方便自己写github和jupyternote的说明文档。
+
+正好在我专门抽出一天来研究markdown的时候，也就是2018年8月20日，印象笔记的mac beta版新推出了markdown功能，可以双屏预览编辑，左边看语法，右边看效果。配合使用学习效果更佳。
+
+因为目的只是自己查阅备用，所以行文主要以自己的使用范围和阅读习惯为准。自己不常用的markdown语法不列在本文范围内。
+
+更进一步关于markdown的文章可以参考[markdown官网](http://www.markdown.cn)。
 # 常用语法
-## 一、标题
+## 段落
+两段中间加入空行。
+#### 语法
+```
+第一段
+
+第二段
+```
+#### 效果
+第一段
+
+第二段
+
+加几个空行都一样。
+#### 语法
+```
+第一段
+
+
+
+第二段
+```
+#### 效果
+第一段
+
+
+
+第二段
+## 换行
+末尾加两个空格再回车。
+#### 语法
+```
+我不知道示例写什么东西好。  
+反正这里要换行了。
+```
+#### 效果
+我不知道示例写什么东西好。  
+反正这里要换行了。
+
+如果不回车，会把两个空格识别成一个空格并且达不到换行的效果。
+#### 语法
+```
+如果不回车。  就是这样。
+```
+#### 效果
+如果不回车。  就是这样。
+
+换行与
+## 标题
 语法：
 ```
   # 一级标题
@@ -58,19 +112,3 @@
 |第一行|...|...|
 |第二行|...|...|
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-> 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
-
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
-
-*   一列表项包含一个列表区块：
-
-        <代码写在这>
