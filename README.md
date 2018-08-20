@@ -20,3 +20,4 @@
 ## markdown语法
 在github和jupyter notebook上都用到markdown语法，为了方便，需要记录一些常用语法备忘。
 ### [个人总结的markdonw常用语法](https://github.com/SmileyZhang/data-analysis/blob/master/md%EF%BC%88markdown%EF%BC%89语法.md)
+正好从今天8月20日开始，印象笔记mac beta版开始支持markdown，还可以分屏预览（左边显示源码，右边显示预览），让我可以更直观地看到更改源码以后的效果，开心！
