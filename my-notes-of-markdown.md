@@ -328,7 +328,12 @@ print('Hello, world!')
 第一次用![替换文本][北理工图片]，第二次用![替换文本][北理工图片]，...，多次用![替换文本][北理工图片]。
 
 ### 嵌套式
-还可以利用嵌套语法给图片加上超链接。
+还可以利用嵌套语法给图片加上超链接，下面这四种表达方式是等价的。
+#### 语法
+    [![](http://www.bit.edu.cn/images/2013zzgb/logo.jpg)](http://www.bit.edu.cn/index.htm)
+    [![北理工图片]](http://www.bit.edu.cn/index.htm)
+    [![](http://www.bit.edu.cn/images/2013zzgb/logo.jpg)][北理工]
+    [![北理工图片]][北理工]
 #### 效果
 [![](http://www.bit.edu.cn/images/2013zzgb/logo.jpg)](http://www.bit.edu.cn/index.htm)
 [![北理工图片]](http://www.bit.edu.cn/index.htm)
