@@ -5,7 +5,11 @@
 邮箱：SmileyZhang@qq.com
 
 # 资料篇
-## 机器学习资料
+## 关于github
+### [《Github漫游指南》](https://github.com/phodal/github)
+作者详细介绍了自己使用`github`的多年经历和心得，其中也涉及到他做程序开发过程中的一些思考。据文章说，他是大陆contribute数最多的人。
+
+## 关于机器学习
 ### 《sklearn与tensorflow机器学习实用指南 hands-on ml with sklearn and tensorlow》
 英文影印版，购自京东。用到python数据分析的很多常用库，如numpy、matplotlib、sklearn和tensorflow，里面涉及大量监督和无监督机器学习模型，个人感觉比《机器学习实战》更适合作为机器学习的入门书，框架更为清楚。
 
@@ -25,7 +29,13 @@
 本书作者是pandas库的作者，7月刚出了[第二版的正式中文版](https://item.jd.com/12398725.html)（比[第二版的英文影印版](https://item.jd.com/12310353.html?dist=jd)贵个十几块钱），关注一下京东最近的活动，等看完《实用指南》再说吧。
 
 # 心得篇
+[资料篇](#资料篇)为看过或将要看的资料梳理，心得篇的内容则完全是自己原创。
 ## markdown语法
-在github和jupyter notebook上都用到markdown语法，为了方便，需要记录一些常用语法备忘。
-### [《我的Markdown笔记》](https://github.com/SmileyZhang/data-analysis/blob/master/my-notes-of-markdown.md)
-这是我个人总结的markdonw常用语法。从8月20日开始，印象笔记mac beta版开始支持markdown，还可以分屏预览（左边显示源码，右边显示预览），更直观地看到更改源码以后的效果，开心！
+在github和jupyter notebook上都用到markdown语法，为了方便，需要记录一些常用语法备忘，所以写了这篇[《我的Markdown笔记》](https://github.com/SmileyZhang/data-analysis/blob/master/my-notes-of-markdown.md)。这是我个人总结的markdonw常用语法，对比网上的官方文档或者其他资料，自己写的文章总是更符合自己习惯些。
+
+从8月20日开始，印象笔记mac beta版开始支持markdown，还可以分屏预览（左边显示源码，右边显示预览），更直观地看到更改源码以后的效果，开心！
+
+# idea篇
+有时候会冒出一些想法暂时来不及实现，但如果不及时记录下来，过段时间可能就忘了，等到下次需要用的时候，只能懊悔自己上次想到这个问题怎么没解决。因此设置这个版块让自己即时记录自己的想法和未来安排，一个一个去解决就好了。
+## 自动生成具有导航功能的md目录
+每次写完md文档，手动去写目录都觉得特别麻烦，容易出错不说，一旦文章发生了修改，人工对照修改前后该目录真是让人难受。网上有一些第三方软件可以生成目录，但是我不太喜欢给自己电脑装没有靠谱官方作保的软件，所以有时间自己去编一个吧。
