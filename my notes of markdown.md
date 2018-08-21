@@ -40,13 +40,13 @@
 
 更进一步关于markdown的文章可以参考[markdown官网](http://www.markdown.cn)。
 
-撰写这篇文章的中途，我偶然在`github`上看到了另一名跟我有类似需求的up的文章，他主要是为了写`github`的readme文档，所以[其文章](https://github.com/guodongxiaren/README)重点放在GFM'GitHub Flavored Markdown'上，有兴趣的可以看一看。
+撰写这篇文章的中途，我偶然在`github`上看到了另一名跟我有类似需求的up的文章，他主要是为了写`github`的readme文档，所以[其文章](https://github.com/guodongxiaren/README)重点放在GFM`GitHub Flavored Markdown`上，有兴趣可以看一看。
 
 正好在我开始写这篇文章这天，也就是2018年8月20日，印象笔记的mac beta版新推出了markdown功能，可以双屏预览编辑，左边看语法，右边看效果。配合使用学习效果更佳。但是刚用就发现有些语法还是不兼容，比如`- `在印象笔记上就起不到列表的效果。所以还是以`github`和`jupyter notebook`的语法为准，只列举在这两个平台上比较好用的语法。
 
 # 版权声明
 本文为原创，所有示例和说明均为自己总结，如非营利目的的部分转载，请注明本文地址和我的联系方式，如需全文转载或用于盈利，请联系我并征得同意。
-本文地址：【待补充】【作者：[SmileyZhang](SmileyZhang@qq.com)】
+本文地址：[我的markdown笔记](https://github.com/SmileyZhang/data-analysis/blob/master/my%20notes%20of%20markdown.md)【作者：[SmileyZhang](SmileyZhang@qq.com)】
 
 # 联系作者
 邮箱：SmileyZhang@qq.com
