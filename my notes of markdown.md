@@ -45,11 +45,14 @@
 正好在我开始写这篇文章这天，也就是2018年8月20日，印象笔记的mac beta版新推出了markdown功能，可以双屏预览编辑，左边看语法，右边看效果。配合使用学习效果更佳。但是刚用就发现有些语法还是不兼容，比如`- `在印象笔记上就起不到列表的效果。所以还是以`github`和`jupyter notebook`的语法为准，只列举在这两个平台上比较好用的语法。
 
 # 版权声明
-本文为我个人原创，所有示例和说明均为自己总结，如非营利目的部分转载，请注明`原文地址`和我的联系方式，如需全文转载或用于盈利，请联系我并征得同意。
+本文为我个人原创，所有示例和说明均为自己总结，如非营利目的部分转载，请附上`原文地址`和`我的联系方式`，如需全文转载或用于盈利，请联系我并征得同意。
 
-原文地址：我的markdown笔记 https://github.com/SmileyZhang/data-analysis/blob/master/my%20notes%20of%20markdown.md
+原文地址：https://github.com/SmileyZhang/data-analysis/blob/master/my%20notes%20of%20markdown.md
+
+我的联系方式：SmileyZhang@qq.com
 
 # 联系作者
+如果阅读过程中发现任何问题（包括但不限于语法、拼写、技术错误），欢迎直接提交pull request或者与我联系。
 邮箱：SmileyZhang@qq.com
 
 # 格式声明
