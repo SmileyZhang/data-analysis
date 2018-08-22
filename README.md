@@ -28,6 +28,10 @@
 ### 《python数据分析 Python for Data Analysis》
 本书作者是pandas库的作者，7月刚出了[第二版的正式中文版](https://item.jd.com/12398725.html)（比[第二版的英文影印版](https://item.jd.com/12310353.html?dist=jd)贵个十几块钱），关注一下京东最近的活动，等看完《实用指南》再说吧。
 
+### [6周学会深度学习](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks)
+### [100天机器学习之旅](https://github.com/llSourcell/Machine_Learning_Journey)
+最初看到这两个教程是在b站关注的`景略集智`发出的视频，原视频来自`youtube`上分享机器学习相关内容的视频制作者`Siraj Raval`。只粗略看了一下两个教程的readme文档，印象还不错，下回仔细研究。
+
 # 心得篇
 [资料篇](#资料篇)为看过或将要看的资料梳理，心得篇的内容则完全是自己原创。
 ## markdown语法
