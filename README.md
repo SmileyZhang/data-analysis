@@ -19,6 +19,9 @@
 #### [作者放在jupyter上的原书补充和课后练习答案](http://nbviewer.jupyter.org/github/ageron/handson-ml/tree/master/)
 内容跟作者放在github上的大致一样，但是作者说github的jupyter viewer比这个慢，我打开试了一下，确实是这个更快一点。
 
+#### [O'Reilly官方errata](https://www.oreilly.com/catalog/errata.csp?isbn=0636920052289)
+所标明的页数比影印版页数多3。有些错误会影响对书的理解，所以看书的时候一定要结合errata一起看。
+
 #### [非官方中文翻译的github](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
 国内自发组织的对原书的翻译（目前还没出官方中文书），对于原书有些文字描述比较多的部分，看这个比看英文快，查阅速度也比原书快，毕竟母语……翻译质量不算特别好，有些错误甚至让人感觉译者自己都不懂作者在说什么，强行逐词翻译硬搬过来的，然后大多缩略词只给出了缩略词和翻译后的全称，没有注明原本的英文全称，导致有些内容比较费解。
 
