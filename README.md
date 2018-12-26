@@ -47,7 +47,7 @@
 # 心得篇
 [资料篇](#资料篇)为看过或将要看的资料梳理，心得篇的内容则完全是自己原创。
 ## markdown语法
-在github和jupyter notebook上都用到markdown语法，为了方便，需要记录一些常用语法备忘，所以写了这篇[《我的Markdown笔记》](https://github.com/SmileyZhang/data-analysis/blob/master/my-notes-of-markdown.md)。这是我个人总结的markdonw常用语法，对比网上的官方文档或者其他资料，自己写的文章总是更符合自己习惯些。
+在github和jupyter notebook上都用到markdown语法，为了方便，需要记录一些常用语法备忘，所以写了这篇[《我的Markdown语法笔记》](https://github.com/SmileyZhang/data-analysis/blob/master/my-notes-of-markdown.md)。这是我个人总结的markdonw常用语法，对比网上的官方文档或者其他资料，自己写的文章总是更符合自己习惯些。
 
 从8月20日开始，印象笔记mac beta版开始支持markdown，还可以分屏预览（左边显示源码，右边显示预览），更直观地看到更改源码以后的效果，开心！
 
