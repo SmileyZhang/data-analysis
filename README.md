@@ -12,6 +12,7 @@
 ## 关于机器学习
 ### 《sklearn与tensorflow机器学习实用指南 hands-on ml with sklearn and tensorlow》
 英文影印版，购自京东。用到python数据分析的很多常用库，如numpy、matplotlib、sklearn和tensorflow，里面涉及大量监督和无监督机器学习模型，个人感觉比《机器学习实战》更适合作为机器学习的入门书，框架更为清楚。
+
 注：2018年8月出了中译版，看评论说是越往后翻译得越差，还是老老实实看原版吧。
 
 #### [作者的github](https://github.com/ageron/handson-ml)
