@@ -32,6 +32,15 @@
 
 [一个caffe model zoo的转换器](https://github.com/ethereon/caffe-tensorflow)
 
+### [机器学习标准教科书PRML的Python实现](https://github.com//ctgk/PRML)
+机器学习神书之一的PRML（模式识别与机器学习）是所有机器学习读者或希望系统理解机器学习的读者所必须了解的书籍。这本书系统而全面地论述了模式识别与机器学习领域的基本知识和最新发展，而该 GitHub 项目希望实现这本书的所有算法与概念，是非常优秀的资源与项目。
+
+PRML 实现地址：https://github.com//ctgk/PRML
+
+PRML 书籍资源：http://pan.baidu.com/s/1skRgcjF 密码：cquc
+
+以上内容摘自https://blog.csdn.net/uwr44uouqcnsuqb60zk2/article/details/78650986 。
+
 ### 《机器学习实战 machine learning in action》
 中文kindle版，购自亚马逊。上来就晾一堆代码给我，不大能看得下去，可读性不如《实用指南》，暂时搁置，等到对机器学习比较熟悉以后再回过来看看，也许到时能好一些。
 
