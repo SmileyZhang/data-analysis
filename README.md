@@ -46,6 +46,11 @@
 #### [100天机器学习之旅](https://github.com/llSourcell/Machine_Learning_Journey)
 最初看到这两个教程是在b站关注的`景略集智`发出的视频，原视频来自`youtube`上分享机器学习相关内容的视频制作者`Siraj Raval`。只粗略看了一下两个教程的readme文档，印象还不错，下回仔细研究。
 
+## 关于爬虫
+### 《Python3网络爬虫开发实战》 崔庆才
+比较系统地介绍了爬虫的原理和常用库的使用方法，实例也比较多。虽然部分内容来自'菜鸟教程'、'W3S'(http://www.w3school.com.cn/)和各种官方文档，有凑字数之嫌，但是毕竟要系统性地把爬虫的来龙去脉讲清楚，作为入门教材还是不错的。
+#### 配套github代码(https://github.com/Python3WebSpider) 
+
 # 心得篇
 [资料篇](#资料篇)为看过或将要看的资料梳理，心得篇的内容则完全是自己原创。
 ## markdown语法
