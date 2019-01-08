@@ -32,7 +32,7 @@
 
 [一个caffe model zoo的转换器](https://github.com/ethereon/caffe-tensorflow)
 
-#### [另一个学这本书的人整理的个人笔记](https://github.com/DeqianBai/Hands-on-Machine-Learning)
+#### [同是学这本书的网友整理的个人笔记](https://github.com/DeqianBai/Hands-on-Machine-Learning)
 项目将书中代码和文字解释合二为一， 学习者这只需要打开Jupyter notebook即可，无需频繁翻阅纸质书籍或查看PDF文档，适用于英语不是那么好，而且时间又不怎么充裕，又想要快速入门机器学习的读者。
 
 摘自项目介绍。
