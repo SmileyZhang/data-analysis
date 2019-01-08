@@ -59,8 +59,7 @@ cd tutorial
 scrapy spider quotes quotes.toscrape.com
 ```
 `tutorial\spiders\`下会出现文件`quotes.py`，用于设置爬取和解析规则。
-修改`item.py`。
-修改前：
+修改`item.py`：
 ```python
 # -*- coding: utf-8 -*-
 
@@ -72,8 +71,11 @@ scrapy spider quotes quotes.toscrape.com
 import scrapy
 
 
-class TutorialItem(scrapy.Item):
+class QuoteItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    text = scrapy.Field()
+    author = scrapy.Field()
+    tags = scrapy.Field()
 ```
+前后对比：
