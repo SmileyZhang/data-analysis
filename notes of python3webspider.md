@@ -25,6 +25,8 @@ tree /f
 ```
 tree name /f
 ```
+### 写这篇笔记时偶然获得的一些小tips
+windows下文件路径分隔符为`\`，网址分隔符为`/`。
 ### 13.2 scrapy基本操作
 #### 目的
 爬取quotes.toscrape.com（一共10页）的所有谚语、作者、标签。
@@ -56,8 +58,8 @@ scrapy startproject tutorial
 cd tutorial
 scrapy spider quotes quotes.toscrape.com
 ```
-`tutorial/spiders/`下会出现文件`quotes.py`，用于设置爬取和解析规则。
-修改
+`tutorial\spiders\`下会出现文件`quotes.py`，用于设置爬取和解析规则。
+修改`item.py`。
 修改前：
 ```python
 # -*- coding: utf-8 -*-
