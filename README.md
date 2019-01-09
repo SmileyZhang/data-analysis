@@ -15,8 +15,12 @@
 
 注：2018年8月出了中译版，看评论说是越往后翻译得越差，还是老老实实看原版吧。
 
-#### [作者的github](https://github.com/ageron/handson-ml)
+#### [作者关于这本书的github项目](https://github.com/ageron/handson-ml)
 里面有原书各章节略过的代码实现部分和对原书的一些补充，还有各章节习题答案的上机部分。
+
+值得一提的是，里面三篇关于python数据分析常用库matplotlib、pandas、numpy的常用功能说明（文件名都是`tools_`打头）写得特别全面，一定要好好看。
+
+其中matplot说明有篇中文[博客](https://www.cnblogs.com/JZ-Ser/articles/8034979.html)内容类似，像是直接翻译过来的，复习的时候可以参考。
 
 #### [作者放在jupyter上的原书补充和课后练习答案](http://nbviewer.jupyter.org/github/ageron/handson-ml/tree/master/)
 内容跟作者放在github上的大致一样，但是作者说github的jupyter viewer比这个慢，我打开试了一下，确实是这个更快一点。
