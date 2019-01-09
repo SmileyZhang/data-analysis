@@ -79,3 +79,5 @@ class QuoteItem(scrapy.Item):
     tags = scrapy.Field()
 ```
 前后对比：
+
+![](https://github.com/SmileyZhang/data-analysis/blob/master/notes-of-webspider/jpgs/compareitems.JPG)
