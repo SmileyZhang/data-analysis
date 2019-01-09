@@ -41,7 +41,7 @@
 
 摘自项目介绍。
 
-### 《模式识别和机器学习》 Recognition and Machine Learning 简称PRML
+### 《模式识别和机器学习 Recognition and Machine Learning》简称PRML
 #### [作者个人主页本书专栏](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 #### [本书官方电子版](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 #### [Python实现（非官方）](https://github.com//ctgk/PRML)
