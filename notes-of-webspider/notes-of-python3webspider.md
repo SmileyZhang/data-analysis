@@ -27,6 +27,8 @@ tree name /f
 ```
 ### 写这篇笔记时偶然获得的一些小tips
 windows下文件路径分隔符为`\`，网址分隔符为`/`。
+
+在线写md草稿目前体验比较好的是`简书`。如果需要在md文档插入本地图片，先将图片插入简书，调整好宽度后直接复制该图片链接即可。而且即使该文章没有发表或者删除，图片依然显示正常。删除后能显示多长时间暂时未知。
 ### 13.2 scrapy基本操作
 #### 目的
 爬取quotes.toscrape.com（一共10页）的所有谚语、作者、标签。
@@ -79,4 +81,5 @@ class QuoteItem(scrapy.Item):
     tags = scrapy.Field()
 ```
 前后对比：
+
 ![items.py对比](https://upload-images.jianshu.io/upload_images/15820840-1881e27847c82a2d.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/416)
