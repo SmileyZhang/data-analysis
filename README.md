@@ -37,7 +37,7 @@
 [一个caffe model zoo的转换器](https://github.com/ethereon/caffe-tensorflow)
 
 #### [同是学这本书的网友整理的学习笔记](https://github.com/DeqianBai/Hands-on-Machine-Learning)
-项目将书中代码和文字解释合二为一， 学习者这只需要打开Jupyter notebook即可，无需频繁翻阅纸质书籍或查看PDF文档，适用于英语不是那么好，而且时间又不怎么充裕，又想要快速入门机器学习的读者。
+>项目将书中代码和文字解释合二为一， 学习者这只需要打开Jupyter notebook即可，无需频繁翻阅纸质书籍或查看PDF文档，适用于英语不是那么好，而且时间又不怎么充裕，又想要快速入门机器学习的读者。
 
 摘自项目介绍。
 
@@ -45,12 +45,12 @@
 #### [作者个人主页本书专栏](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 #### [本书官方电子版](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 #### [Python实现（非官方）](https://github.com//ctgk/PRML)
-机器学习神书之一的PRML（模式识别与机器学习）是所有机器学习读者或希望系统理解机器学习的读者所必须了解的书籍。这本书系统而全面地论述了模式识别与机器学习领域的基本知识和最新发展，而该 GitHub 项目希望实现这本书的所有算法与概念，是非常优秀的资源与项目。
+>机器学习神书之一的PRML（模式识别与机器学习）是所有机器学习读者或希望系统理解机器学习的读者所必须了解的书籍。这本书系统而全面地论述了模式识别与机器学习领域的基本知识和最新发展，而该 GitHub 项目希望实现这本书的所有算法与概念，是非常优秀的资源与项目。
 
 摘自[https://blog.csdn.net/uwr44uouqcnsuqb60zk2/article/details/78650986](https://blog.csdn.net/uwr44uouqcnsuqb60zk2/article/details/78650986)。
 #### [其他资料介绍](https://blog.csdn.net/kebu12345678/article/details/78642637)
 ### [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
-以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述。
+>以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述。
 
 摘自项目简介。
 
