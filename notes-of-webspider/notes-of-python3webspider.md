@@ -80,4 +80,5 @@ class QuoteItem(scrapy.Item):
 ```
 前后对比：
 
-![](https://github.com/SmileyZhang/data-analysis/blob/master/notes-of-webspider/jpgs/compareitems.JPG)
+![](https://github.com/SmileyZhang/data-analysis/blob/master/notes-of-webspider/jpgs/compareitems.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/416)
+![items.py对比](https://upload-images.jianshu.io/upload_images/15820840-1881e27847c82a2d.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/416)
