@@ -86,6 +86,11 @@
 比较系统地介绍了爬虫的原理和常用库的使用方法，实例也比较多。虽然部分内容来自`菜鸟教程`、[`W3S`](http://www.w3school.com.cn/)和各种官方文档，有凑字数之嫌，但是毕竟要系统性地把爬虫的来龙去脉讲清楚，作为入门教材还是不错的。
 #### [配套github代码](https://github.com/Python3WebSpider) 
 
+## python
+### 《python编程快速上手——让繁琐工作自动化 Automate the Boring Stuff with Python》
+前面简单过了一遍python基础，后面有各种利用python将比较麻烦的工作自动化的实现过程，推荐。
+#### [官方在线阅读原版全书](https://automatetheboringstuff.com/)
+国外的很多作者真的很乐于分享知识，整本书就这么直接放出来了，免费……配套资料和链接都在这里，结合中文版一起看，中文看糊涂的了部分直接看原版。
 # 心得篇
 [资料篇](#资料篇)为看过或将要看的资料梳理，心得篇的内容则完全是自己原创。
 ## markdown语法
