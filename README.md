@@ -5,11 +5,21 @@
 邮箱：SmileyZhang@qq.com
 
 # 资料篇
-## 关于github
+## github
 ### [《Github漫游指南》](https://github.com/phodal/github)
 作者详细介绍了自己使用`github`的多年经历和心得，其中也涉及到他做程序开发过程中的一些思考。据文章说，他是大陆contribute数最多的人。
 
-## 关于机器学习
+## 数据结构和算法
+比较流行的原版书有两本：
+### 《数据结构 Python语言描述 Fundamentals of Python: Data Structures》
+### 《Problem Solving with Algorithms and Data Structures Using Python》
+这本目前获得的资料比较多，所以遇到数据结构和算法问题结合这本跟裘宗燕老师那本一起看应该差不多了。
+#### [在线阅读原版](http://interactivepython.org/runestone/static/pythonds/index.html)
+#### [中文非官方笔记](https://github.com/facert/python-data-structure-cn)
+还有一本比较少人提到的：
+### 《数据结构与算法：Python语言实现 Data Structures and Algorithms in Python》
+
+## 机器学习
 ### 《sklearn与tensorflow机器学习实用指南 hands-on ml with sklearn and tensorlow》
 英文影印版，购自京东。用到python数据分析的很多常用库，如numpy、matplotlib、sklearn和tensorflow，里面涉及大量监督和无监督机器学习模型，个人感觉比《机器学习实战》更适合作为机器学习的入门书，框架更为清楚。
 
@@ -71,7 +81,7 @@
 ### 知乎
 #### [在数据分析、挖掘方面，有哪些好书值得推荐？](https://www.zhihu.com/question/20757000/answer/102038191)
 
-## 关于爬虫
+## 爬虫
 ### 《Python3网络爬虫开发实战》 崔庆才
 比较系统地介绍了爬虫的原理和常用库的使用方法，实例也比较多。虽然部分内容来自`菜鸟教程`、[`W3S`](http://www.w3school.com.cn/)和各种官方文档，有凑字数之嫌，但是毕竟要系统性地把爬虫的来龙去脉讲清楚，作为入门教材还是不错的。
 #### [配套github代码](https://github.com/Python3WebSpider) 
