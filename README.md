@@ -15,7 +15,7 @@
 ### 《Problem Solving with Algorithms and Data Structures Using Python》
 这本目前获得的资料比较多，所以遇到数据结构和算法问题结合这本跟裘宗燕老师那本一起看应该差不多了。
 #### [在线阅读原版](http://interactivepython.org/runestone/static/pythonds/index.html)
-#### [中文非官方笔记](https://github.com/facert/python-data-structure-cn)
+#### [非官方翻译和笔记](https://github.com/facert/python-data-structure-cn)
 还有一本比较少人提到的：
 ### 《数据结构与算法：Python语言实现 Data Structures and Algorithms in Python》
 
