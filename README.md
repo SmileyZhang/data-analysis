@@ -136,7 +136,7 @@
 
 ### [Cracking Codes with Python](http://inventwithpython.com/cracking/)
 
-跟上本书同一系列，全系列见http://inventwithpython.com/。这个作者真是个神人，写了好几本python的畅销书，而且在网上把全文放出来了。作者说，他认为编程让人更聪明而且特别有用，每个人都值得去了解一下，他卖书只是为了付房租……
+跟上本书同一系列，全系列见[http://inventwithpython.com/](http://inventwithpython.com/)。这个作者真是个神人，写了好几本python的畅销书，而且在网上把全文放出来了。作者说，他认为编程让人更聪明而且特别有用，每个人都值得去了解一下，他卖书只是为了付房租……
 
 # 心得篇
 
